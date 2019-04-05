@@ -55,7 +55,7 @@ body {
   padding: 1%;
 }
 .comentario img{
-  width: 6%;
+  width: 50px;
 }
 .comentario img, textarea, button {
   margin: 1%;
