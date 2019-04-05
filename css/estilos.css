@@ -1,0 +1,76 @@
+body {
+    overflow-x: hidden;
+}
+#blog-body{
+  background-image: url(../img/background.png);
+  background-repeat: repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+}
+#encabezado{
+  background: red;
+}
+
+#logo img{
+  width: 30%;
+}
+#redes-sociales{
+  padding: 1%;
+  padding-top: 3%;
+
+}
+#redes-sociales img{
+  width: 32px;
+}
+#nav-bar{
+}
+.nav{
+    padding: 1%;
+
+}
+.nav a{
+  color: white;
+  border-radius: 10px;
+}
+.nav a:hover{
+  background: red !important;
+  border-radius: 10px;
+
+}
+.space-box{
+  height: 55px;
+}
+.active{
+  background: red !important;
+  border-radius: 10px;
+}
+.articulos{
+  background: rgba(33, 33, 33, 0.90);
+}
+.comentario{
+  margin-top: 2%;
+  display: inline-flex;
+  align-items:  center;
+  padding: 1%;
+}
+.comentario img{
+  width: 6%;
+}
+.comentario img, textarea, button {
+  margin: 1%;
+}
+.barra-busqueda{
+  background: rgba(33, 33, 33, 0.90);
+}
+.vertical-align{
+  display: flex;
+  align-items: center;
+}
+#barra-busqueda{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+#lista-lateral a{
+  color: blak;
+}
